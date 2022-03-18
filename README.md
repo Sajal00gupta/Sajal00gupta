@@ -1,3 +1,4 @@
+[<img src = https://raw.githubusercontent.com/Sajal00gupta/Sajal00gupta/main/welcome-welcoming.gif' width="980">][website]
 - 👋 Hi, I’m Sajal Gupta
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning R, Tableau and SQL.
