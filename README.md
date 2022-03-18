@@ -1,4 +1,4 @@
-<img src = 'https://raw.githubusercontent.com/Sajal00gupta/Sajal00gupta/main/welcome-welcoming.gif' width="980">
+<img src = 'https://github.com/Sajal00gupta/Sajal00gupta/blob/main/pictures/welcome-welcoming.gif' width="980">
 
 - 👋 Hi, My name is Sajal Gupta
 - 👀 I’m interested in Data Analysis
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="s | LinkedIn" width="22px" src="https://github.com/Sajal00gupta/Sajal00gupta/blob/main/linkedin.svg" />][linkedin]
+[<img align="left" alt="s | LinkedIn" width="22px" src="https://github.com/Sajal00gupta/Sajal00gupta/blob/main/pictures/linkedin.svg" />][linkedin]
 <!---[<img align="left" alt="s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle] --->
 
 <br />
