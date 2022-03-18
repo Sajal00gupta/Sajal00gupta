@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TeYang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!---[<img align="left" alt="TeYang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle] --->
+[<img align="left" alt="s | LinkedIn" width="22px" src="https://github.com/Sajal00gupta/Sajal00gupta/blob/main/linkedin.svg" />][linkedin]
+<!---[<img align="left" alt="s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle] --->
 
 <br />
 
